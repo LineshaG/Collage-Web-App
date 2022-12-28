@@ -1,0 +1,58 @@
+body
+{
+    color: black;
+}
+.copy_right_footer 
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: larger;
+    font-weight: 500;
+}
+h1
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-weight: 700;
+    font-size: 40px;
+    color: rgb(255, 103, 217);
+}
+h4
+{
+    color: rgb(0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+}
+button
+{
+    height: 6.5%;
+    width: 6.5%;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    background-color: rgb(17, 0, 255);
+    border-color: rgb(255, 255, 255);
+}
+#camera
+{
+    width:320px;
+    height: 250px;
+    border:1px solid rgb(47, 0, 255)
+}
+img
+{
+box-shadow: 0 6px 8px 0 black;
+}
+
+section
+{
+    
+    background-image: url(blue.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
